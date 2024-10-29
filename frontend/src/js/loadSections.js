@@ -32,4 +32,5 @@ function loadSection(containerId, filePath, callback) {
   });
   
   // Charger la section history ou post-card
-  loadSection('historyContainer', '../src/sections/post-card.html');
+
+ loadSection('historyContainer', '../src/sections/post-card.html');
